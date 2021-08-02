@@ -6,5 +6,6 @@
   - Determinant of a matrix
   - Projectile motion
   - Integration
+  - Taylor Expansion
  
 - Feel free to look through the codes.
