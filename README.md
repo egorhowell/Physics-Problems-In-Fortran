@@ -8,5 +8,6 @@
   - Integration
   - Taylor Expansion
   - Heat Diffusion
+  - Trapezoidal Function
  
 - Feel free to look through the codes.
