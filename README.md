@@ -9,5 +9,6 @@
   - Taylor Expansion
   - Heat Diffusion
   - Trapezoidal Function
+  - Mercury's and Earth's Orbital Radius
  
 - Feel free to look through the codes.
