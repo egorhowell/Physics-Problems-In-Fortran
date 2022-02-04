@@ -1,15 +1,15 @@
 # University Fortran Coursework
 
-These are my university physics coding problems which were solved in Fortran.
+Physics problems solved in Fortran 90.
 
 Many of these are very basic physics problems which include:
- - Root finding
+
+ - Newton-Rahpson root finding
  - Determinant of a matrix
- - Projectile motion
- - Integration
- - Taylor Expansion
- - Heat Diffusion
- - Trapezoidal Function
- - Mercury's and Earth's Orbital Radius
+ - Simulating projectile motion
+ - Numerical integration
+ - Taylor expansion
+ - Simulating heat diffusion
+ - Trapezoidal function
+ - Mercury's and Earth's orbital radius and velocity
  
-Feel free to look through the codes.
