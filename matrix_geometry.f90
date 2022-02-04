@@ -3,6 +3,7 @@
 !for given vectors and writes them to a file for gnuplot to visualise
 
 PROGRAM matrix
+
 	IMPLICIT NONE
 
 		
@@ -252,7 +253,10 @@ PROGRAM matrix
 			CYCLE	!this forms a cycle and sends the user back to the menu to decide what they want to do
 		END IF
 	
+	
 	END DO
+
+
 
 END PROGRAM
 
