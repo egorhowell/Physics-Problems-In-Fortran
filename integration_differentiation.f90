@@ -192,7 +192,9 @@ PROGRAM finite
 			counter= 0
 
 			DO j=1,(N-1)
+			
 				counter = counter + Integral(a+j*h)	!do loop to find the sum of the area of the strips, which is 'counter' in this case
+			
 			END DO
 		
 			Trapezium = ((h/2.0) * (Integral(a)+Integral(b))) + h*counter	!final value for the area using trapezium rule
