@@ -12,4 +12,5 @@ Many of these are very basic physics problems which include:
  - Simulating heat diffusion
  - Trapezoidal function
  - Mercury's and Earth's orbital radius and velocity
+ - Solving ODE's
  
