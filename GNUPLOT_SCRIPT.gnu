@@ -1,9 +1,3 @@
-#------------------------------------------------
-#PHY1038 Assignment 4 - Matrix Geometry
-#URN 6513114 - CPTL Lab Group 2F
-#March 23th 2018
-#------------------------------------------------
-
 #GNUPLOT SCRIPT 
 #for my one the triangle was rotated pi radians (3.14/180 degrees)
 
@@ -28,5 +22,9 @@ plot "A4.dat" using 1:2 with lines title "new triangle", "A4.dat" using 4:5 with
 
 #Alternatively open gnuplot and type load "6513114-GNUPLOT_SCRIPT.gnu"
 #This will create a .png file in your current folder
+
+
+
+
 
 
