@@ -259,31 +259,3 @@ PROGRAM matrix
 
 
 END PROGRAM
-
-		
-	
-	
-
-
-
-	
-	
-
-
-	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
